@@ -2,15 +2,13 @@
 
 ![Ride A Pet](thumbnail.jpg)
 
-# Script Features Overview
-
 Best Script with **instant execution — 100% Keyless, No Key Needed**
 
 </div>
 
 ---
 
-## ⚡ Core Features
+## Features
 
 ### 🥚 Automated Harvesting & Delivery
 - **Instant Scan & Route**: Scans the workspace and teleports directly to available wild eggs.
