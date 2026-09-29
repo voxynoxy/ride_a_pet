@@ -2,7 +2,7 @@
 
 ![Ride A Pet](thumbnail.jpg)
 
-Best Script with **instant execution — 100% Keyless, No Key Needed**
+Best Script with **instant execution - 100% Keyless, No Key Needed**
 
 </div>
 
@@ -10,7 +10,7 @@ Best Script with **instant execution — 100% Keyless, No Key Needed**
 
 ## Features
 
-### 🥚 Automated Harvesting & Delivery
+### 🥚 Automated Farm eggs 
 - **Instant Scan & Route**: Scans the workspace and teleports directly to available wild eggs.
 - **Safe Return Mechanism**: Glides back to your plot using an adjustable return speed slider (50 – 600 studs/s).
 - **Deadlock Prevention**: Built-in boundary filters ignore eggs placed within player plots and protected zones.
@@ -20,7 +20,7 @@ Best Script with **instant execution — 100% Keyless, No Key Needed**
 - Individual ON/OFF toggles for granular targeting.
 - One-click presets: "Reset All OFF" and "+ All Godly".
 
-### 🌱 Plot & Sanctuary Automation
+### 🌱 Plot 
 - **Auto Deploy / Plant**: Detects eggs in your inventory and plants them directly into plot nests.
 - **Auto Collect**: Continuously collects generated cash, coins, and pet item drops.
 - **Auto Feed**: Feeds sanctuary pets on a configurable interval to boost growth.
@@ -31,7 +31,7 @@ Best Script with **instant execution — 100% Keyless, No Key Needed**
 - Overlays color-coded visual markers and billboard tags on active wild eggs across the map.
 - Displays target egg name and rarity classification in real time.
 
-### 🚀 Locomotion & Movement
+### 🚀 Movement
 - **Universal Hover Fly**: Smooth directional flight alignment with adjustable velocity limits.
 - **Speed & Jump Tuning**: Customizable WalkSpeed and JumpPower modifiers.
 - **Instant Teleports**: Quick shortcuts to your ranch plot and essential map regions.
